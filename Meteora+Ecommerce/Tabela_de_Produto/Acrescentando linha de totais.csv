@@ -1,0 +1,24 @@
+Meteora,,,,
+,,,,
+Produtos,Tamanho,Categoria, Preço Unitário ,Qtd
+Camiseta Lisa,P,Vestuário, R$ 25.90 ,12
+Camiseta Lisa,M,Vestuário, R$ 29.90 ,10
+Camiseta Lisa,G,Vestuário, R$ 32.90 ,6
+Óculos ,Único,Acessórios, R$ 399.90 ,3
+Jaqueta ,P,Vestuário, R$ 249.90 ,1
+Jaqueta ,M,Vestuário, R$ 259.90 ,2
+Jaqueta ,G,Vestuário, R$ 299.90 ,1
+Calça ,P,Vestuário, R$ 85.90 ,8
+Calça ,M,Vestuário, R$ 89.90 ,5
+Calça ,G,Vestuário, R$ 92.90 ,6
+Vestido ,Único,Vestuário, R$ 149.90 ,2
+Bermuda,P,Vestuário, R$ 65.90 ,12
+Bermuda,M,Vestuário, R$ 69.90 ,15
+Bermuda,G,Vestuário, R$ 70.90 ,13
+Tênis,36,Calçado, R$ 199.90 ,2
+Tênis,37,Calçado, R$ 249.90 ,1
+Tênis,38,Calçado, R$ 259.90 ,0
+Bolsa,Único,Acessórios, R$ 259.90 ,1
+Boné,Único,Acessórios, R$ 39.90 ,11
+Cinto,Único,Acessórios, R$ 49.90 ,21
+Total,,," R$ 2,983.00 ",132
